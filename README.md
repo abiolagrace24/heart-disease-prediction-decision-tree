@@ -3,11 +3,11 @@ This project is a step-by-step guide to predicting the presence of heart disease
 
 This name reflects the main purpose of the notebook — using a decision tree to predict heart disease, while being clean and descriptive.
 
-# ❤️ Heart Disease Prediction Using Decision Tree (Beginner Project)
+# ❤️ Heart Disease Prediction Using Decision Tree 
 
 This project is a step-by-step, beginner-friendly guide to predicting the presence of heart disease using a **Decision Tree Classifier**. The model is trained using a real-world dataset and built with Python and Scikit-learn.
 
-Whether you're new to data science or looking to understand how machine learning models work in practice, this notebook walks you through each step — from data loading to model evaluation — in clear and practical terms.
+Whether you're new to data science or looking to understand how machine learning models work in practice, this notebook walks you through each step from data loading to model evaluation in clear and practical terms.
 
 ---
 
